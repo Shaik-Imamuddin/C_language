@@ -1,0 +1,51 @@
+Algorithm is a step by step process or sequence of steps used to slove a problem or perfrom a task.
+and it is independent of programming languages.
+
+Characteristics of a Good Algorithm:
+
+    clear and Unambiguous - it needs to be simple and confusion less
+    Finiteness            - it must end after some finite no.of steps
+    input                 - it have to accept zero or more inputs
+    output                - it needs to return one or more outputs
+    Effectiveness         - it needs to be simple and executbale
+
+Advantages of Algorithms: 
+    1.  Easy to understand. 
+    2. An algorithm uses a definite procedure. 
+    3. Independent of any programming language
+    4. Every step has its own logical sequence so it is easy to debug. 
+
+Disdvantages of Algorithms: 
+    1. Alogorithm is Time consuming. 
+    2. Difficult to show Branching and Looping in Algorithms. 
+    3. Big tasks are difficult to put in Algorithms.
+
+
+we can write the Algorithm in 3 ways
+
+        ->plain English
+        ->psudeocode
+        ->flowchart
+
+
+Representation of Maximum of two numbers Algorithm
+
+Plain English:
+Step 1:start
+Step 2:read two numbers
+Step 3:compare two values(ex a and b)
+Step 4:if a is greater than b display "a is greater" otherwise "b is greater"
+Step 5:stop
+
+Pseudocode:
+START
+READ A, B
+IF A > B THEN
+MAX ← A
+ELSE
+MAX ← B
+ENDIF
+DISPLAY MAX
+END
+
+refer flowchart folder for flowchart Representation

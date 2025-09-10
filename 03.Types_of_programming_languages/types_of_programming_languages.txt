@@ -1,0 +1,42 @@
+What is programming language?
+    -> is nothing but a communication language between human and machine.
+Why we need programming language?
+    -> to avoid the mistakes made by humans during work, we are going to give instruction to a machine.
+
+Types of programming language
+    Low level languages
+    Intermediate level languages
+    High level languages    
+
+
+Low level language
+    -> Binary language (0 & 1)
+        Eg: if i want to add 4 & 5
+        4 -> 0100
+        5 -> 0101
+        + -> 1111 -> Op. Codes (Operational Code) 16 bit compiler architecture
+        
+        32 bit:
+        4 -> 00100
+        5 -> 00101
+        + -> 11111
+        
+        -> Humans can't predict the compiler architecture, so whenever there is a change in compiler,
+        we needs to change the entire program.
+        
+Intermediae language
+    -> Assembly level langauge (Direct Machine Codes)(Microprocessor, Microcontroller)
+    -> Keywords
+    Eg: if i want to add 4 & 5
+    ADD(4,5) -> 9 (without carry digit)
+    ADC(4,5) -> 9 (with carry digit)
+    ADDS
+    SUB(5,4) -> 
+    
+    -> it will be easy when comparing with bianry language, but it will also have a disadvantage
+    -> combiantion of keywords, so understanding the usage is difficult for the humans
+            
+High level language
+    Eg: if i want to add 4 & 5
+        4 + 5
+        + -> symbol used for addition, will be only one and cannot be changed based on compiler.

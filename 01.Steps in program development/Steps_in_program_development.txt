@@ -1,0 +1,17 @@
+Program:
+    program is nothing but a collection of instructions.
+    given to the machine as input used to process the task and return the output to the user.
+
+properties to develop Program:
+    Alphabets
+    Digits
+    special symbols
+    white spaces
+
+
+Steps in program development:
+    Understand the problem
+    Break it down
+    Design an Algorithm
+    Code
+    Test & Debug - compilation & Execution

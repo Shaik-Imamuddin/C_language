@@ -10,7 +10,7 @@ Characteristics of a Good Algorithm:
     Effectiveness         - it needs to be simple and executbale
 
 Advantages of Algorithms: 
-    1.  Easy to understand. 
+    1. Easy to understand. 
     2. An algorithm uses a definite procedure. 
     3. Independent of any programming language
     4. Every step has its own logical sequence so it is easy to debug. 
@@ -41,9 +41,9 @@ Pseudocode:
 START
 READ A, B
 IF A > B THEN
-MAX ← A
+MAX = A
 ELSE
-MAX ← B
+MAX = B
 ENDIF
 DISPLAY MAX
 END

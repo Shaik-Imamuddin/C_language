@@ -1,0 +1,18 @@
+Compiler	                        Interpreter
+1.Compiler Takes entire	            1.Interpreter Takes single 
+  program as input.                   instructions as input.
+
+2.Creates a separate	            2.Does not create a separate file,
+  executable file(e.g.,.exe).         executes directly.
+
+3.Faster execution                  3.Slower execution 
+(since whole program is already       (translation happens line-by-line 
+translated before running).	            at runtime).
+
+4.Shows all errors at           	4.Stops immediately when an error
+once after compilation.               is found (one at a time).
+
+5.Needs more memory	                5.Uses less memory
+(stores executable file).             (no separate executable file).
+
+6.Example:C, C++, Java.	            6.Ex:Python, JavaScript, Ruby, PHP.

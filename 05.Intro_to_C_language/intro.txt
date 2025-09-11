@@ -1,0 +1,6 @@
+C language is high level programming language 
+used in the development and implementation of computer programs. 
+
+History of C 
+->C language was developed by Dennis Ritchie
+->in the year 1972 in AT&T Bell Laboratories , USA

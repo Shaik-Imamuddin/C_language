@@ -1,0 +1,2 @@
+Interpreter is a set of instructions which is used to covert the high level language(source code)
+into low level language(byte code) line-by-line without producing a separate executable file..

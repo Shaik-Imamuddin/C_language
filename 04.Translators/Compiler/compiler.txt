@@ -1,0 +1,6 @@
+Compiler is a set of instructions which is used to covert the high level language(source code)
+into low level language(byte code) in a single pass
+
+EX:
+    In C language:
+        Source Code (program.c) → [Compiler] → Machine Code (program.exe)

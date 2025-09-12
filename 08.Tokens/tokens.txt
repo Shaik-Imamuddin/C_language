@@ -1,0 +1,15 @@
+A token is nothing but smallest individual unit.
+
+Collections of tokens - instruction
+Collections of instructions - program
+Collections of programs - package
+Collections of packages - Module
+Collections of Modules - Project
+
+There are 5 types of tokens.
+
+    ->Keywords
+    ->identifiers
+    ->constants / literals
+    ->operators
+    ->separators

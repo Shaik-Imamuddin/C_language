@@ -1,0 +1,48 @@
+Structure of c program:
+    
+    Documentation Section
+    Link Section
+    Definition Section
+    Global Declaration Section
+    Main Section
+        Declaration Part
+        Executable Part
+    Subprogram Section
+
+
+EX:
+
+/* 
+    Documentation Section
+    Program: Addition of Two Numbers
+    Description: This program adds two numbers using C 
+*/
+
+#include <stdio.h>   // Link Section (header files)
+
+// Global Declaration Section
+int sum;  // global variable to store result
+
+// Subprogram Section (function prototype)
+int add(int x, int y);
+
+int main()   // Main Section
+{
+    // Declaration Part
+    int a, b;
+
+    // Execution Part
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+
+    sum = add(a, b);    // calling subprogram (function)
+
+    printf("Sum = %d\n", sum);
+
+    return 0;
+}
+
+// Subprogram Section (function definition)
+int add(int x, int y) {
+    return x + y;
+}

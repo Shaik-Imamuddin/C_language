@@ -1,0 +1,21 @@
+Comments are nothing but not Executable statements
+it will be only used for reading purpose
+
+
+There are 2 types of Comments
+
+    ->single line Comments
+    ->multi line Comments
+
+->single line comments will be created by using the symbol //
+
+Ex:
+    //This is a comment
+
+->multi line comments will be created by using the symbol /*  */
+it starts with /* and ends with */
+
+Ex:
+    /* This is a comment
+        and also called as Not Executable statement
+    */

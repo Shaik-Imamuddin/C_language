@@ -1,0 +1,28 @@
+Datatypes are used to specify which type of data we are going to store in variable
+
+There are 2 types of Datatypes
+
+    -> Primitive Datatypes
+        ->char
+        ->int
+        ->float
+        ->double
+    -> non-Primitive Datatypes
+        ->Arrays
+        ->strings
+
+-> Primitive Datatypes : The size of Primitive Datatypes is fixed we can't change the size of the Primitive Datatypes
+
+-> non-Primitive Datatypes : The size of non-Primitive Datatypes is user defined we can change the size According to our requirement
+
+->refer IO Statements To learn How to get the input from user for all primitive Datatypes.
+
+1 Byte           -  8 bits
+1024 Bytes       -  1 Kilo Byte(KB)
+1024 Kilo Bytes  -  1 Mega Byte(MB)
+1024 Mega Bytes  -  1 Giga Byte(GB)
+1024 Giga Bytes  -  1 Tera Byte(TB)
+1024 Tera Byte   -  1 Petabyte(PB)
+1024 Petabyte    -  1 Exabyte(EB)
+1024 Exabyte     -  1 Zettabyte(ZB) 
+1024 Zettabyte   -  1 Yottabyte(YB)

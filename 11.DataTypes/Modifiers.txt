@@ -1,0 +1,53 @@
+Modifiers are used to increase or decrease the size of the primitive Datatypes
+
+There are 2 types of Modifiers  
+
+        ->size Modifiers
+        ->sign Modifiers
+
+->size Modifiers: 
+        short
+        long
+
+->sign Modifiers
+        signed
+        unsigned
+
+size Modifiers: 
+
+short will takes 2 bytes of memory we can use to store small integer values within the range.
+so , instead of using int for small values we can use short
+
+long will takes 4 bytes of memory in C language we can use to store large integer values which exceeds the integer range.
+so , instead of using int for storing large integer values we can use long 
+
+Syntax for short: 
+
+        short variable_name;
+
+        short datatype variable_name
+
+Syntax for long:
+
+        long variable_name;
+
+        long datatype variable_name
+
+sign Modifiers:
+
+signed and unsigned will be used only along with char and int
+
+By default all the numbers are signed numbers. means contains of both positive and negative numbers
+
+if we need only positive numbers then we need to use unsigned.
+
+Syntax for signed:
+        signed datatype variable_name; 
+        
+        //signed is optional because all primitive typres are signed by default
+
+Syntax for signed:
+        unsigned datatype variable_name;
+
+        EX: Age , Weight , Height .... contains only positive numbers.
+

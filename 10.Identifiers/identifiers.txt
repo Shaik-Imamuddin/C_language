@@ -1,0 +1,32 @@
+Identifier is a name given to a variable , function , class , module , etc.
+An identifier is a combination of character digits and underscore.
+
+Rules for defining identifier:
+
+->An identifier should starts with alphabet or underscore.
+->we can't start an identifier with a digit.
+->keywords are not allowed.
+->identifiers are case sensitive.
+->No other special symbol is allowed other than underscore.
+->white spaces are not allowed.
+
+
+Find the below Examples for understanding Identifiers.
+
+abc    -     valid
+
+2ab    -     invalid
+
+_12    -     valid
+
+if     -     invalid
+
+for_   -     valid
+
+_a     -     valid
+
+a b    -     invalid
+
+____   -     valid
+
+a@b    -     invalid

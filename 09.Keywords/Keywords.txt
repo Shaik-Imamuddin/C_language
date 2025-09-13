@@ -1,0 +1,13 @@
+Keywords are nothing but reserved words or inbuilt words
+all Keywords are in lower case.
+
+There are 32 Keywords in c language
+
+auto        break       case        char
+const       continue    default     do
+double      else        enum        extern  
+float       for         goto        if
+int         long        register    return
+short       signed      sizeof      static
+struct      switch      typedef     union
+unsigned    void        volatile    while

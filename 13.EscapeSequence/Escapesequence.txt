@@ -1,0 +1,12 @@
+Escape Sequence charecters are special charecters in c 
+which starts with backslash \ . 
+These are non printable charecters used within strings or charecters.
+
+\n - Newline
+\t - Horizontal tab
+\b - Backspace
+\r - Carriage return
+\' - Single quote '
+\" - Double quote "
+\\ - Backslash \
+\0 - Null character (used to terminate strings)

@@ -1,0 +1,4 @@
+if we are taking the input without using format specifiers 
+then it comes under but unformatted input.
+
+it will works only with charecters and strings

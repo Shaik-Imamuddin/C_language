@@ -1,0 +1,23 @@
+printf() is an output function in c language. which is used to print the output to the console
+
+it is available in stdio.h library.
+
+Syntax:
+    printf("format Specifier",variable_name);
+
+Ex:
+    if you are taking an integer input 
+            int num=100;
+            printf("%d",num);
+
+we can also print the strings using printf() before taking input or
+while printing the output.
+
+Ex:
+    int num;
+    print("Enter a Number : ");
+    scanf("%d",&num);
+    print("the Number Enterd By user : ");
+
+
+whatever we have given in printf() with in double Quotes That will be printed to console.

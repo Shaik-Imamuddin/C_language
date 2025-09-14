@@ -1,0 +1,14 @@
+scanf() is an input function in c language. which is used to take the input from the user
+
+it is available in stdio.h library.
+
+Syntax:
+    scanf("format Specifier",&variable_name);
+
+Ex:
+    if you are taking an integer input 
+
+            int num;
+            scanf("%d",&num);
+
+refer format specifiers to learn which format specifier need to use for Required datatype.

@@ -1,0 +1,21 @@
+Array are used to store collection of same type of data items stored at continoues memory locations.
+we can access the array elements by using index values index values starts with 0 and ends with size-1.
+
+Advantage of Array:
+1.) we can store collection of elements.
+2.) we can reduce the length of the code.
+3.) Easy of traversing.
+4.) Easy of sorting.
+
+Dis-Advantage of Array:
+1.) Fixed Size
+2.) It stores same type of elements
+3.) Continues Memory Allocation
+4.) Insertion Anomaly
+5.) Deletion Anomaly
+
+Types of Arrays:
+    Mainly there are 2 types of Arrays in c laguage
+
+    one dimensional array
+    Two dimensional array

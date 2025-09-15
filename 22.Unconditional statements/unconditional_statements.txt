@@ -1,0 +1,11 @@
+unconditional statements are also known as jumping statements.
+These statements allows the program to transfer executuion control unconditionally
+from one part to another part of a function or program.
+
+There are 4 types of jumping statements
+
+        break
+        continue
+        goto
+        return
+

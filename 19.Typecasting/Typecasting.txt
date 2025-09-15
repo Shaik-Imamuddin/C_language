@@ -1,0 +1,26 @@
+Type casting is a process of converting one data type into another data type.
+
+There are 2 types of type casting
+    ->implicit type casting(Widening)
+    ->explicit type casting(Narrowing)
+
+implicit type casting:
+    it is a process of converting small datatype to big datatype
+    it will be done automatically by the compiler.
+    here There is no chance for data loss.
+
+Explicit type casting:
+    it is a process of converting big datatype to small datatype
+    it will be done Done manually by the programmer.
+    here There is Possible chance for data loss.
+
+Ex:
+#include <stdio.h>
+int main()
+{
+    int a=5,b=2;
+    float f = a/b;
+    printf("%f\n",f);//implicit
+    printf("%f",(float)a/b);//explicit
+    return 0;
+}

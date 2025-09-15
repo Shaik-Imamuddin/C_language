@@ -1,0 +1,12 @@
+Conditional statements are also known as Branching Statements or Decision-making Statements
+
+These statements are used to Execute the Block of Statemnts Based on a Condition
+
+There are 6 Types of Conditional Statements
+        
+        ->simple if statement
+        ->if else statement
+        ->if-else if statement
+        ->else-if ladder / cascaded if statement
+        ->nested if statement
+        ->Switch Statement

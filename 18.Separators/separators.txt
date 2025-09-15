@@ -1,0 +1,9 @@
+ ; (semicolon)      - Statement terminator – every C statement ends with ;
+ , (comma)	        - Separator – separates variables, function arguments, etc.
+ . (dot)	        - Structure/union member access operator
+-> (arrow)	        - Pointer to structure member access
+ : (colon)	        - Used in conditional operator ?: and in switch-case
+() (parentheses)    - Used for function calls, parameter lists, grouping expressions
+{} (curly braces)	- Block of code (functions, loops, if-else, struct definitions)
+[] (square brackets)- Array subscripting / indexing
+ # (hash)	        - Used in preprocessor directives (#include, #define)

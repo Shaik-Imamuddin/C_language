@@ -1,0 +1,22 @@
+variable is a name given to a memory location . which will store the value temporarily
+
+we can create variables in 2 ways 
+
+    ->Declaration with intialization
+    ->Declaration After intialization
+
+Declaration with intialization:
+
+    Syntax: 
+        datatype variable_name = value;
+
+Declaration After intialization:
+
+    Syntax: 
+        datatype variable_name;
+
+
+we can assign a value to a variable.
+we can assign a variable to a variable.
+we can assign a constant to a variable.
+we can assign an Expression to a variable.

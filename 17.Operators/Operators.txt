@@ -1,0 +1,44 @@
+Operator is a symbol which is used to perform operations on operands.
+
+Operator is just nothing but a symbol like + , - , * , = , & , || ... etc.
+
+operands will represented as follows
+        variables   -   a+b
+        values      -   10-5
+        constants   -   a+3.14
+        expressions -   a=a*b
+    
+There are 3 categories of operators :
+        ->unary operators
+        ->Binary operators
+        ->Ternary operators
+
+unary operators:
+    The operators which holds a single operand comes under unary operators
+
+        Ex: ++a , a++ , --a , a-- , ~a , !(a>b) 
+
+Binary operators:
+    The operators which holds a exactly two operands comes under Binary operators
+    All the remaining operators comes under Binary except unary and Ternary.
+
+    Ex: a+b , a*b , a/b , a&b , a^b , a=b ,and so on ........
+
+Ternary operators:
+    The operators which holds more than 2 operands comes under Ternary operators
+    The only operator comes under Ternary is conditional operator also known as Ternary operator.
+
+    EX: (a>b)?a:b;
+
+There are 8 types of operators in c language:
+
+        1.Arithmetic operators
+        2.Relational operators
+        3.Logical operators
+        4.Assignment operators
+        5.Bitwise operators
+        6.Increment and decrement operator
+        7.conditional operator
+        8.Special operators
+
+

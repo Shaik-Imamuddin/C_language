@@ -1,0 +1,12 @@
+A 2D array is an array of arrays.
+It is in the form of matrices.
+
+we can access the 2D Array using two indices [row][column]
+
+we can create two dimensional array in 2 ways
+    ->Declaration with intialization
+    ->Declaration after intialization
+
+Syntax for array Declaration:
+
+    data_type Array_name[row_size][column_size];

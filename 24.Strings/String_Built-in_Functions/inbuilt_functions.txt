@@ -1,0 +1,16 @@
+built-in functions are nothing built already developed methods,just we have to use them if it is needed.
+
+whenever we are using the built-in functions 
+    we have to import the string library which is having all built-in functions #include<string.h>.
+
+The Following are string inbuilt methods:
+
+strlen()-finds the length of the string.
+strcat()-it appends one string at the end of another.
+strncat()-it appends first n charecters of a string at the end of another.
+strcpy()-used to copy a string to another.
+strncpy()-used to copy first n charecters of a string to another.
+strcmp()- it is used to compare 2 strings.
+strncmp() - it is used to compare first n charecters 2 strings.
+strchr() - find out first occurence of a given charecter in a string.
+strrchr() - find out last occurence of a given charecter in a string.

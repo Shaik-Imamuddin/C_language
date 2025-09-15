@@ -1,0 +1,9 @@
+Looping statements are also known as iterative control statements or repetitive control statements.
+
+These statements are used execute the block of statements repeatedly until the condition becomes false.
+
+There are 3 types of of Looping statements
+
+    ->for
+    ->while
+    ->do while

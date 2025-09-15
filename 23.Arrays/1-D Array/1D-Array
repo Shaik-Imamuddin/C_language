@@ -1,0 +1,11 @@
+A 1D array is a list of elements.
+It is like a row (a single line of elements).
+Accessed using a single index.
+
+we can create one dimensional array in 2 ways
+    ->Declaration with intialization
+    ->Declaration after intialization
+
+Syntax for array Declaration:
+
+    data_type Array_name[Array_size];

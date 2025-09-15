@@ -1,0 +1,7 @@
+String is a collection of charecters enclosed with in double quotes.
+it will also have sequential memory allocation like 1D array.
+
+Syntax:
+    datatype -> which is always char for string.
+
+	char variable_name[String_size];

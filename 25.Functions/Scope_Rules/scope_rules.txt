@@ -1,0 +1,16 @@
+Scope refers to the part of a program where a variable is accessible. There are mainly 2 types of scopes
+
+    ->local scope
+    ->global scope
+
+Local Scope:
+
+A variable has local scope if it is declared inside a function or a block.
+It can be accessed only within that function or block.
+Local variables are created when the function is called and destroyed when the function ends.
+
+Global Scope:
+
+A variable has global scope if it is declared outside all functions, usually at the top of the program.
+It can be accessed by any function in the program.
+Global variables exist throughout the program execution.

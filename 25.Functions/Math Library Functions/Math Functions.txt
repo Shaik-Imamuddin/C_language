@@ -1,0 +1,21 @@
+There is a library called <math.h> which contains all the in-built functions used to perform mathematical operations. 
+
+The following functions are mainly used mathematical functions:
+
+pow(a,b) -> it will returns a^b
+sqrt(x) -> it is used to return square root of x.
+cbrt(x) -> it is used to return cube root of x.
+
+ceil(x) -> it will round up the x value
+floor(x) -> it will round down the x value
+round(x) -> it will returns nearest value to x
+
+fabs(x) -> it returns absolute value of x
+fmod(a,b) -> it returns the remainder of a and b
+fmax(a,b) -> it returns the maximum number from a and b
+fmin(a,b) -> it returns the minimum number from a and b
+
+log(x) -> it returns the natural log value with base e
+log10(x) -> it returns the log value with base 10
+
+for all the above functions we have to pass the parameters in double format.

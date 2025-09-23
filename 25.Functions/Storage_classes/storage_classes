@@ -1,0 +1,21 @@
+In c language storage classes are defined as
+
+    where a variable is stored in memory
+    scope of the variable
+    life of the variable
+
+Types of storage classes:
+    There are 4 Types of storage classes
+        1.auto
+        2.register
+        3.static
+        4.extern
+
+refer with the usage and examples of all above storage classes 
+and then compare with below table
+
+Storage Class	    Scope	            Lifetime	        Default Value	    Stored in
+   auto	        Local (function)	Till function ends	    Garbage value	     Stack
+ register	    Local (function)	Till function ends	    Garbage value	    CPU Register
+  static	      Local/Global	    Entire program run	           0	        Data Segment
+  extern	    Global (all files)	Entire program run	           0	        Data Segment

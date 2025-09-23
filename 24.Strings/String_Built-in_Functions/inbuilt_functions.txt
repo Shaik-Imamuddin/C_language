@@ -14,3 +14,9 @@ strcmp()- it is used to compare 2 strings.
 strncmp() - it is used to compare first n charecters 2 strings.
 strchr() - find out first occurence of a given charecter in a string.
 strrchr() - find out last occurence of a given charecter in a string.
+strrev() - used to reverse the given string.
+
+The following are two more important methods available in ctype.h library
+
+tolower() - used to convert the charecters into lowercase.
+toupper() - used to convert the charecters into uppercase.

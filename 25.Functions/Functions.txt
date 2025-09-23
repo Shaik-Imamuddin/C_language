@@ -1,0 +1,82 @@
+Functions:
+	->function is a sub program used in main program.
+	->functions are used to reduce the code length
+	->the block of statements of a function should be executed when you call the function.
+	
+Types of functions:
+		-> pre-defined
+			-> will is already defined as in the library
+			-> scanf(), printf(), pow(), sqrt(), etc
+		-> user-defined
+			-> are created by the users for their needs
+            
+function implementation:
+
+	while we are working with functions we have to remember 3 things
+		-> function declaration
+		-> function definition
+		-> function calling
+		
+	-> function declaration
+		-> declare the function before going to use it in program
+		-> declaration needs to be above the main function
+		Syntax:
+		returnType functionName(datatype arg1,datatype arg2,...);
+
+	-> function definition
+		-> used to define the function usage
+		syntax:
+		returnType functionName(datatype arg1, datatype arg2,...)
+		{
+			//execution statement 1
+			//execution statement 2
+			.
+			.
+		}
+
+	-> function call
+		-> used to call the function whenever the statement block is needed
+		-> if function declaration contains of arguments we have to pass  parameters at the time of function calling.
+		
+		-> functionName()
+		-> functionName(arg1,arg2,...)
+
+Implementation of functions:
+
+	we can implement function in four ways
+ 		
+		-> with returnType with arguments
+		-> with returnType without arguments
+		-> without returnType with arguments
+		-> without returnType without arguments
+
+	
+	-> with returnType with arguments
+	returnType functionName(datatype arg1, datatype arg2,..){
+		//block of statements
+	}
+
+	-> with returnType without arguments
+	returnType functionName(){
+		//block of statements
+	}
+
+	-> without returnType with arguments
+	void functionName(datatype agr1, datatype arg2,...){
+		//block of statements
+	}
+
+	-> without returnType without arguments
+	void functionName(){
+		//block of statements
+	}
+
+
+Recursion:
+	Recursion is nothing but a function that calling a copy of itself
+	when we are using recursion we have remember 2 cases.
+
+		->base case
+		->recursive case
+
+	it will repeatedly execute the recursive case until the base case becomes true.

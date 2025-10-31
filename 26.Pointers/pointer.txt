@@ -1,0 +1,18 @@
+pointer is nothing but a variable which is used to store the memory address of the another variable.
+
+In a pointer variable we can store only 2 values 
+    ->Either address of another variable
+    ->or null value
+
+usage of pointers:
+Efficient memory usage.
+Dynamic memory allocation.
+Useful in data structures like linked lists, trees, etc.
+
+Syntax:
+
+Declaration:
+    datatype *variable_name;
+
+Intialization:
+    variable_name = &another_variable_name

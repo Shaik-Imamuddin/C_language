@@ -1,0 +1,19 @@
+Dynamic memory Management functions are use to allocate the memory at run time.
+
+There are 4 main functions used in Dynamic memory allocation
+
+    malloc()
+    calloc()
+    realloc()
+    free()
+
+all the above functions are available in <stdlib.h>
+
+free()- is used to release the dynamically allocated memory back to the system to avoid memory leaks.
+
+Usage of Dynamic memory Management functions
+
+    Efficient memory Utilization
+    resizeable Memory
+    used for complex Data Structures
+    Avoiding Memory waste

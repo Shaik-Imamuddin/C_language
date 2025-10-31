@@ -1,0 +1,6 @@
+the following are the types of pointers
+
+    NULL pointer
+    void pointer
+    constant pointer
+    pointer to pointer

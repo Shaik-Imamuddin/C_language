@@ -1,0 +1,9 @@
+            Structure	                                        Union
+1.)it will be created by using struct keyword     1.)it will be created by using union keyword
+2.)Stores all members separately                  2.)Stores one member at a time
+3.)Allocates separate memory for each member	  3.)Allocates common/shared memory for all members
+4.)Memory = sum of all members	                  4.)Memory = largest member size
+5.)Values do not overwrite each other             5.)one member overwrites the existing value of others
+6.)Used when we need all data                     6.)Used when we need only one data at a time
+7.)All members can be accessed anytime            7.)Only the last assigned member value is valid
+8.)it Can initialize multiple members             8.)Can initialize only one member

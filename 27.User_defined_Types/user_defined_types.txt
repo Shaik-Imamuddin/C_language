@@ -1,0 +1,8 @@
+User-defined data types allow users to create their own data type using existing data types.
+
+The following are common user-defined datatypes
+
+enum
+typedef
+struct
+union

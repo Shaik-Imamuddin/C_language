@@ -1,0 +1,46 @@
+Preprocessor directives are instructions that are processed before the actual compilation of a C program begins.
+
+They all start with a # (hash symbol) and are handled by the C preprocessor, not by the compiler.
+
+
+#include	                        Includes contents of another file (like header files)	            #include <stdio.h>
+
+#include <stdio.h>   // Standard header file
+#include "myfile.h"  // User-defined header file
+
+#define	                            Defines a constant or macro	                                        #define PI 3.14
+#if, #else, #elif, #endif           Conditional compilation                                             #if AGE > 18
+
+
+
+#define
+
+The #define directive is used to define constants or macros in a C program.
+It tells the preprocessor to replace a name with a value or expression before compilation.
+
+Syntax:
+#define name value
+
+
+
+Conditional compilation:
+
+Conditional compilation means compiling certain parts of a program only if specific conditions are true.
+
+It’s done using preprocessor directives like:
+
+#if
+#else
+#elif
+#endif
+
+These are handled by the C preprocessor before actual compilation.
+
+Syntax:
+#if condition
+    // Code if condition is true
+#elif another_condition
+    // Code if the first condition is false but this one is true
+#else
+    // Code if none of the above are true
+#endif

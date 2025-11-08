@@ -1,0 +1,37 @@
+a file is a stograge space where data is stored permanently
+
+in c language we can use files to store ,read and manipulate the data 
+
+using inbuilt functions availabe in <stdio.h> library.
+
+Basic file operations:
+
+operation               function                working
+
+open a file             fopen()                 opens an existing file or creates a new file
+
+read data               fscanf()/fgets()        reads data from a file
+
+write data              fprintf()/fputs()       write data to a file
+
+close file              fclose                  closes an opened file
+
+
+syntax:
+FILE *file_pointer;
+
+fopen() syntax:
+    file_pointer = fopen("file_name.txt","mode");
+
+fclose() syntax:
+    fclose(file_pointer);
+
+
+common modes:
+
+"r"     -   read mode
+"w"     -   write mode (overwrites data)
+"a"     -   append mode (keeps old data)
+"r+"    -   Read + Write mode
+"w+"	-   Write + Read	(overwrites data)
+"a+"	-   Append + Read	(keeps old data)

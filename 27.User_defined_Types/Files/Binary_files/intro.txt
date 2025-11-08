@@ -1,0 +1,20 @@
+A binary file is a file that stores data in the same format as it is stored in computer memory — as 0s and 1s (binary form).
+
+binary files are not human-readable.
+
+Binary files are more compact, faster to read/write data.
+
+fwrite() Syntax:
+
+fwrite(address_of_data, size_of_each_element, number_of_elements, file_pointer);
+
+fread() Syntax:
+
+fread(address_of_data, size_of_each_element, number_of_elements, file_pointer);
+
+Feature	Text File	Binary File
+Data Format	                Human-readable (ASCII characters)	        Machine-readable (binary bits)
+Size	                        Larger	                                        Smaller
+Speed	                        Slower	                                        Faster
+Example	                      .txt, .csv	                                  .dat, .bin
+Functions	                fprintf(),fscanf()                             	fwrite(),fread()

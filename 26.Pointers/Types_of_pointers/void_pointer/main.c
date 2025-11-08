@@ -11,21 +11,11 @@ Syntax:
 // void pointer dereferencing to int
 #include<stdio.h>
 int main(){
-    int n;
-    scanf("%d",&n);
+    int a;float b;
+    scanf("%d%f",&a,&b);
     void *ptr;
-    ptr = &n;
-    printf("%d",*(int*)ptr);
+    ptr = &a;
+    printf("%d\n",*(int*)ptr);
+    ptr = &b;
+    printf("%.2f",*(float*)ptr);
 }
-
-
-//void pointer dereferencing to float
-
-// #include<stdio.h>
-// int main(){
-//     float n;
-//     scanf("%f",&n);
-//     void *ptr;
-//     ptr = &n;
-//     printf("%.2f",*(float*)ptr);
-// }

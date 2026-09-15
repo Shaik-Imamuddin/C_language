@@ -1,4 +1,4 @@
-C language is high level programming language 
+C language is a general-purpose high level programming language 
 used in the development and implementation of computer programs. 
 
 History of C 
